@@ -1,7 +1,7 @@
 {
 	"ads": "true",
 	"update": [{
-		"version": "1.0.1",
+		"version": "1.0.0",
 		"title": "Do you like this VPN app? Check the source code!",
 		"description": "The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn and follow the developer on GitHub github.com/gayanvoice",
 		"size": "https://git.io/JeY69"
@@ -41,7 +41,7 @@
 			"city": "Singapore",
 			"country": "Singapore",
 			"image": "singapore",
-			"ip": "54.169.252.31",
+			"ip": "www.viber.com.edgekey.net.ovpnsg2.dibon.io",
 			"active": "true",
 			"signal": "a"
 		},
